@@ -1,1 +1,1 @@
-f=String.fromCharCode;q=f 39;m=f 9;s='f=String.fromCharCode;q=f 39;m=f 9;s=	;console.log s.replace m,q+s+q';console.log s.replace m,q+s+q
+s='s=;q=String.fromCharCode 39;console.log s[..1]+q+s+q+s[2..]';q=String.fromCharCode 39;console.log s[..1]+q+s+q+s[2..]
